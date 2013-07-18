@@ -6,6 +6,9 @@ My first jquery plugin, an easy way to implement a sprite animation tested on jQ
 example
 ==========
 
+[View Example](http://www.umpx.com.br/bundles/jquery.easysprite/)
+
+
 ``` html
 <!doctype html>
 <html lang="en">
